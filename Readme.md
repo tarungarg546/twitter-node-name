@@ -9,15 +9,15 @@ npm install -g twitter-node-name
 
 #### Use
 ```
-twitter-node-name -f /path/to/keys/ -n AwesomeName✨ node
+twitter-node-name -f /path/to/keys/ -n AwesomeName:sparkles: node
 ```
 
 where 
-      `-n` AwesomeName✨ is the name *you* want to have aside from version 🐨
+      `-n` AwesomeName:sparkles: is the name *you* want to have aside from version :koala:
 
-      `-f` is path to file that holds your twitter keys
+      `-f` is path to file that holds your twitter keys,
       
-      `node` could be substituted for `npm` to get the latest version of npm from [npm's changelog] 
+      `node` could be substituted for `npm` to get the latest version of npm from [npm's :sparkles: changelog :sparkles:] 
       -- it literally grabs the first heading on that changelog page, so there could be mistakes. 
 
 Then, set it up as your cronjob to run at whatever interval you like. Run this to edit cronjobs in your fave editor:
