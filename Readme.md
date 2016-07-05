@@ -18,7 +18,7 @@ where
       `-f` is path to file that holds your twitter keys,
       
       `node` could be substituted for `npm` to get the latest version of npm from [npm's :sparkles: changelog :sparkles:] 
-      -- it literally grabs the first heading on that changelog page, so there could be mistakes. 
+          it literally grabs the first heading on that changelog page, so there could be mistakes. 
 
 Then, set it up as your cronjob to run at whatever interval you like. Run this to edit cronjobs in your fave editor:
 
