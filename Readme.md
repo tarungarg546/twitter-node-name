@@ -15,7 +15,7 @@ twitter-node-name -f /path/to/keys/ -n AwesomeName:sparkles: node
 where 
       `-n` AwesomeName:sparkles: is the name *you* want to have aside from version :koala:
 
-      `-f` is path to file that holds your twitter keys,
+      -f is path to file that holds your twitter keys,
       
       `node` could be substituted for `npm` to get the latest version of npm from [npm's :sparkles: changelog :sparkles:] 
           it literally grabs the first heading on that changelog page, so there could be mistakes. 
