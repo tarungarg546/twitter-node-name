@@ -49,4 +49,4 @@ and add all your 🆒  keys:
   "access_token_secret": "cool_access_token_secret"
 }
 ```
-[npm's changelog]: https://github.com/npm/npm/blob/master/CHANGELOG.md
+[npm's ✨ changelog ✨]: https://github.com/npm/npm/blob/master/CHANGELOG.md
