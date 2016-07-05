@@ -17,7 +17,7 @@ where
 
       `-f` is path to file that holds your twitter keys,
 
-      `node` could be substituted for `npm` to get the latest version of npm from [npm's ✨ changelog ✨](https://github.com/npm/npm/blob/master/CHANGELOG.md) 
+      `node` could be substituted for `npm` to get the latest version of npm from [npm's ✨ changelog ✨] 
       -- it literally grabs the first heading on that changelog page, so there could be mistakes. 
 
 Then, set it up as your cronjob to run at whatever interval you like. Run this to edit cronjobs in your fave editor:
@@ -49,3 +49,4 @@ and add all your 🆒  keys:
   "access_token_secret": "cool_access_token_secret"
 }
 ```
+[npm's changelog]: https://github.com/npm/npm/blob/master/CHANGELOG.md
